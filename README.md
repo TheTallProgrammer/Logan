@@ -1,2 +1,2 @@
-# Logan
-A new programmer that's just eager to learn.
+# Logan Falkenberg
+A programmer that's just eager to learn.
